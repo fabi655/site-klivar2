@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/static/js/main.ca24d310.chunk.js",
+    "main.js.map": "/static/js/main.ca24d310.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.e8233bd5.chunk.css": "/static/css/2.e8233bd5.chunk.css",
+    "static/js/2.e51aae90.chunk.js": "/static/js/2.e51aae90.chunk.js",
+    "static/js/2.e51aae90.chunk.js.map": "/static/js/2.e51aae90.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.d3821e779d9c65980276bb9012491e15.js": "/precache-manifest.d3821e779d9c65980276bb9012491e15.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.e8233bd5.chunk.css.map": "/static/css/2.e8233bd5.chunk.css.map",
+    "static/media/home-7-1-bg.jpg": "/static/media/home-7-1-bg.6b2572a2.jpg",
+    "static/media/home-7-2-bg.jpg": "/static/media/home-7-2-bg.66e4c1e1.jpg",
+    "static/media/home-7-3-bg.jpg": "/static/media/home-7-3-bg.76a3a889.jpg",
+    "static/media/react-bootstrap-carousel.css": "/static/media/react-bootstrap-carousel.f7448c04.ttf"
+  }
+}
